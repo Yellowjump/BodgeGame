@@ -1,5 +1,5 @@
 # BodgeGame
-a easy game
+//a easy game
 import javax.swing.*;
 import java.awt.*;
 import java.lang.*;
